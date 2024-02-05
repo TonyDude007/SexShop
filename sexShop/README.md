@@ -1,7 +1,5 @@
 # README #
 
--Equipe:
+-Equipe: Antoine / Evan / Arnold
 
--Antoine
--Evan
--Arnold
+![Image Description](relative/path/to/your/image.png)
